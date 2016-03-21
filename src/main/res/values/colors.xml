@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="tabNormalColor">#FFC4C4C4</color>
+    <color name="textGray">#FFC4C4C4</color>
+    <color name="textYellow">#F1C500</color>
+
+    <color name="SnowWhite">#FFFFFF</color>
+</resources>
